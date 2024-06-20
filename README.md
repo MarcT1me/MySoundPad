@@ -35,5 +35,5 @@ GOOD USING. Thanks.
 `pip install --upgrade pyinstaller`\
 don't forget to transfer the icon and the mp3 file
 ```shell
-pyinstaller --name "Test Bild" --icon="ico.png" --add-data="ico.png;ico.png" main.pyw
+pyinstaller --name "Test Bild" --icon="ico.png" main.pyw
 ```
