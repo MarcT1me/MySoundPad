@@ -1,0 +1,20 @@
+# default
+__pycache__
+.idea
+venv
+
+# system
+*.ini
+
+# build and compilation
+data_for_compile_files
+build
+*.spec
+
+# arhivs
+*.zip
+*.rar
+
+# other project files
+test.*
+screenshots
